@@ -1,7 +1,7 @@
 /**
  * Rock Paper Scissors Game 
  * 
- * JavaScript
+ * Language: JavaScript
  * 
  * Coded by Sean Rowan
  * 
